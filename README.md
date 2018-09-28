@@ -2,7 +2,7 @@
 ========================================Read me===========================================
 1. Install the XAMPP or WAMP
 2.For xamp server Copy the hospital folder in the C:\\xampp/htdocs
-3. For wamp server, Copy the hospital folder in the C:\\wamp/www
+3.For wamp server, Copy the hospital folder in the C:\\wamp/www
 
 
 Installing the DB
